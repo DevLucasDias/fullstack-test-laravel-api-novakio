@@ -20,3 +20,4 @@ Route::get('/', function () {
 Route::get('/teste', function() {
     return 'Verifique as rotas da api em `routes/api.php`';
 });
+
